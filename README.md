@@ -17,7 +17,7 @@ HTML | CSS | JavaScript (Fetch API)
 ### API Used
 https://jsonplaceholder.typicode.com/users
 
-
+![fetch API](https://github.com/SharibBaksh/Fetch_API-userData/blob/4190b388729e7c5bb25fc6b8362ed02e82e74a39/Screenshot%20(45).png)
 
 ### Author
 Sharib Baksh
